@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm ynkos 👋</h1>
 
 <p align="center">
-  🧠 Math Enthusiast | 📊 Aspiring Quant | 🧪 IB Graduate | 
+  🧠 Math Enthusiast | 📊 Aspiring Quant | 🧪 IB Graduate 
 </p>
 
 ---
