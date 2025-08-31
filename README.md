@@ -13,7 +13,6 @@
 - 🧪 Graduated IB with 43/45 points
 - 🧠 Math Olympiad veteran
 - 💼 Exploring careers in **quantitative trading** and **software engineering**
-- 💻 Passionate about applying **Python** to algorithms, finance, and simulations
 
 
 ---
