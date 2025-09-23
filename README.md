@@ -1,9 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi, I'm ynkos 👋</h1>
 
-<p align="center">
-  🧠 Math Enthusiast | 📊 Aspiring Quant | 🧪 IB Graduate 
-</p>
+
 
 ---
 
@@ -12,7 +10,7 @@
 - 🎓 Currently studying Mathematics at UC Berkeley
 - 🧪 Graduated IB with 43/45 points
 - 🧠 Math Olympiad veteran
-- 💼 Exploring careers in **quantitative trading** and **software engineering**
+- 💼 Exploring careers in **quantitative finance** and **software engineering**
 
 
 ---
