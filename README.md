@@ -9,7 +9,7 @@
 
 - 🎓 Currently studying Mathematics at UC Berkeley
 - 🧪 Graduated IB with 43/45 points
-- 🧠 Math Olympiad veteran
+- 🧠 Used to do Math Olympiads in high school
 - 💼 Exploring careers in **quantitative finance** and **software engineering**
 
 
