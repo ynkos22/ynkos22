@@ -1,30 +1,9 @@
-## Hi there 👋
-<h1 align="center">Hi, I'm Andrew 👋</h1>
+# Hi, I'm Andrew 
 
+Mathematics student at UC Berkeley, interested in Quantitative Research, Machine Learning, Reinforcement Learning and Robotics
 
+- B.A. Mathematics, UC Berkeley (expected 2028)
+- National Math Olympiad Training Camp participant
+- Berkeley, CA, open to opportunities worldwide
 
----
-
-### 🚀 About Me
-
-- 🎓 Currently studying Mathematics at UC Berkeley
-- 🧪 Graduated IB with 43/45 points
-- 🧠 Used to do Math Olympiads in high school
-- 💼 Exploring careers in **quantitative finance** and **software engineering**
-
-
----
-
-
-### 📫 Let's Connect
-
-- 📍 Based in Berkeley, California, open to global opportunities
-- 💼 [LinkedIn](https://linkedin.com) (https://www.linkedin.com/in/andrew-wang1/)
-- 📧 Email: AW.0604@outlook.com
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ynkos&show_icons=true&theme=radical" alt="ynkos' GitHub stats" />
-</p>
-
+**Connect:** [LinkedIn](https://www.linkedin.com/in/andrew-wang1/) · [Email](mailto:AW.0604@outlook.com)
